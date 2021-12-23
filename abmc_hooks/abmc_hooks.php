@@ -2,7 +2,7 @@
 
 /*
 Plugin Name:  ABMC Hooks
-Plugin URI: https://www.malinoisclub.com/
+Plugin URI: https://github.com/aaronrl/abmc_wp_hooks
 Description:  Custom WordPress hooks for ABMC-controlled sites.
 Version: 1.0
 Author: Aaron Lindstrom
